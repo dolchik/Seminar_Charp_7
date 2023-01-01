@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/olgadrach/Desktop/GB/Знакомство с языками программирования/Seminar_Charp_7/Ex_01/Ex_01.csproj": {}
+  },
+  "projects": {
+    "/Users/olgadrach/Desktop/GB/Знакомство с языками программирования/Seminar_Charp_7/Ex_01/Ex_01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/olgadrach/Desktop/GB/Знакомство с языками программирования/Seminar_Charp_7/Ex_01/Ex_01.csproj",
+        "projectName": "Ex_01",
+        "projectPath": "/Users/olgadrach/Desktop/GB/Знакомство с языками программирования/Seminar_Charp_7/Ex_01/Ex_01.csproj",
+        "packagesPath": "/Users/olgadrach/.nuget/packages/",
+        "outputPath": "/Users/olgadrach/Desktop/GB/Знакомство с языками программирования/Seminar_Charp_7/Ex_01/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/olgadrach/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
